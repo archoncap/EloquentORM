@@ -1,0 +1,9 @@
+[2017-03-20 16:13:21] 219.157.196.198 /
+INFO [Log_Log.info] error:SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'John5766@qq.com' for key 'users_email_unique' (SQL: insert into `users` (`id`, `username`, `email`, `updated_at`, `created_at`) values (20553, John68570, John5766@qq.com, 2017-03-20 16:13:21, 2017-03-20 16:13:21))|file:/www/wwwroot/yaf/yaf_eloquent/vendor/illuminate/database/Connection.php|line:624
+
+[2017-03-20 16:14:20] 219.157.196.198 /
+INFO [Log_Log.info] error:SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'John790@qq.com' for key 'users_email_unique' (SQL: insert into `users` (`id`, `username`, `email`, `updated_at`, `created_at`) values (25302, John66717, John790@qq.com, 2017-03-20 16:14:20, 2017-03-20 16:14:20))|file:/www/wwwroot/yaf/yaf_eloquent/vendor/illuminate/database/Connection.php|line:624
+
+[2017-03-20 16:16:58] 219.157.196.198 /
+INFO [Log_Log.info] error:SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'John9306@qq.com' for key 'users_email_unique' (SQL: insert into `users` (`id`, `username`, `email`, `updated_at`, `created_at`) values (85601, John67335, John9306@qq.com, 2017-03-20 16:16:58, 2017-03-20 16:16:58))|file:/www/wwwroot/yaf/yaf_eloquent/vendor/illuminate/database/Connection.php|line:624
+

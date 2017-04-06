@@ -1,0 +1,30 @@
+[2017-04-05 02:26:00] 1.199.72.102 /
+INFO [Log_Log.info] [Bootstrap] session init error:Yaf_Loader::autoload(): Failed opening script /www/wwwroot/yaf/yaf_eloquent/library/Cache/Cache.php: No such file or directory
+
+[2017-04-05 02:26:00] 1.199.72.102 /
+INFO [Log_Log.info] receive:array (
+)
+
+[2017-04-05 02:26:00] 1.199.72.102 /favicon.ico
+INFO [Log_Log.info] [Bootstrap] session init error:Yaf_Loader::autoload(): Failed opening script /www/wwwroot/yaf/yaf_eloquent/library/Cache/Cache.php: No such file or directory
+
+[2017-04-05 02:26:00] 1.199.72.102 /favicon.ico
+INFO [Log_Log.info] receive:array (
+  'favicon_ico' => '',
+)
+
+[2017-04-05 02:26:01] 1.199.72.102 /
+INFO [Log_Log.info] [Bootstrap] session init error:Yaf_Loader::autoload(): Failed opening script /www/wwwroot/yaf/yaf_eloquent/library/Cache/Cache.php: No such file or directory
+
+[2017-04-05 02:26:01] 1.199.72.102 /
+INFO [Log_Log.info] receive:array (
+)
+
+[2017-04-05 02:26:01] 1.199.72.102 /favicon.ico
+INFO [Log_Log.info] [Bootstrap] session init error:Yaf_Loader::autoload(): Failed opening script /www/wwwroot/yaf/yaf_eloquent/library/Cache/Cache.php: No such file or directory
+
+[2017-04-05 02:26:01] 1.199.72.102 /favicon.ico
+INFO [Log_Log.info] receive:array (
+  'favicon_ico' => '',
+)
+

@@ -1,0 +1,384 @@
+[2017-04-03 14:56:57] 61.52.76.57 /
+INFO [Log_Log.info] error:Call to undefined method Illuminate\Database\Query\Builder::toArray()|file:/www/wwwroot/yaf/yaf_eloquent/vendor/illuminate/database/Query/Builder.php|line:2051
+
+[2017-04-03 14:56:59] 61.52.76.57 /
+INFO [Log_Log.info] error:Call to undefined method Illuminate\Database\Query\Builder::toArray()|file:/www/wwwroot/yaf/yaf_eloquent/vendor/illuminate/database/Query/Builder.php|line:2051
+
+[2017-04-03 14:58:21] 61.52.76.57 /
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:21] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:22] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:27] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:27] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:27] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:27] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:27] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:27] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:27] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:27] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:27] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:28] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:33] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:45] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:46] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:46] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:46] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:46] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:46] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+
+[2017-04-03 14:58:47] 61.52.76.57 /404
+INFO [Log_Log.info] error:Failed opening controller script /www/wwwroot/yaf/yaf_eloquent/application/controllers/Index.php: Success|file:/www/wwwroot/yaf/yaf_eloquent/public/index.php|line:4
+

@@ -1,0 +1,7 @@
+[2017-03-22 23:32:07] 140.205.205.2 /
+INFO [Log_Log.info] [Bootstrap] session init error:Yaf_Loader::autoload(): Failed opening script /www/wwwroot/yaf/yaf_eloquent/library/Cache/Cache.php: No such file or directory
+
+[2017-03-22 23:32:07] 140.205.205.2 /
+INFO [Log_Log.info] receive:array (
+)
+
